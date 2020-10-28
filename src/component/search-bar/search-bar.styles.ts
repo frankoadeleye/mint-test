@@ -3,7 +3,7 @@ import useColor from "../../constants/color";
 
 export const SearchBarBlock = styled.input`
   border: none;
-  border-bottom: 1px solid ${useColor.text};
+  border-bottom: 1px solid ${useColor.lighterGrey};
   width: 100%;
   height: 2rem;
   padding-left: 2rem;
