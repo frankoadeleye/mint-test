@@ -10,5 +10,6 @@ const useColor = {
   borderColor: "#CED0DA",
   pending: "#EBC315",
   reconciled: "#27AE60",
+  searchBorder: "#787878",
 };
 export default useColor;
