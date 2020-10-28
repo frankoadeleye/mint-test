@@ -19,7 +19,7 @@ export const MerchantPage = () => {
       </TransactionCardContainer>
       <ChartSection />
       <PaymentSection />
-      <PaginationRow showingStartNum="1" showingEndNum="10" totalNum="50" />
+      <PaginationRow showingStartNum="1" showingEndNum="10" totalNum="500" />
     </MerchantPageBlock>
   );
 };
