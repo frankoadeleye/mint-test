@@ -16,4 +16,9 @@ export const CustomButtonBlock = styled.button`
   color: #ffff;
   font-size: ${fontSize.text};
   margin-left: 1.5rem;
+  transition: 0.3s;
+
+  &:hover {
+    filter: brightness(90%);
+  }
 `;
